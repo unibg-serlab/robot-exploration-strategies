@@ -1,0 +1,7 @@
+
+Search Date: 17.12.2023
+
+
+TITLE (*exploration* OR active*map* OR active*slam OR "map learning" OR "informative path planning") AND TITLE-ABS-KEY ( *robot* ) AND ( LIMIT-TO ( DOCTYPE , "cp" ) OR LIMIT-TO ( DOCTYPE , "ar" ) OR LIMIT-TO ( DOCTYPE , "ch" ) ) AND ( LIMIT-TO ( LANGUAGE , "English" ) ) AND ( EXCLUDE ( SUBJAREA , "PHYS" ) OR EXCLUDE ( SUBJAREA , "MATE" ) OR EXCLUDE ( SUBJAREA , "MEDI" ) OR EXCLUDE ( SUBJAREA , "DECI" ) OR EXCLUDE ( SUBJAREA , "NEUR" ) OR EXCLUDE ( SUBJAREA , "CENG" ) OR EXCLUDE ( SUBJAREA , "BUSI" ) OR EXCLUDE ( SUBJAREA , "BIOC" ) ) AND ( EXCLUDE ( EXACTKEYWORD , "Biomimetics" ) OR EXCLUDE ( EXACTKEYWORD , "Machine Design" ) OR EXCLUDE ( EXACTKEYWORD , "Interplanetary Flight" ) OR EXCLUDE ( EXACTKEYWORD , "Manned Space Flight" ) OR EXCLUDE ( EXACTKEYWORD , "Orbits" ) OR EXCLUDE ( EXACTKEYWORD , "Solar System" ) OR EXCLUDE ( EXACTKEYWORD , "Spacecraft" ) OR EXCLUDE ( EXACTKEYWORD , "Manipulators" ) OR EXCLUDE ( EXACTKEYWORD , "Robotic Arms" ) OR EXCLUDE ( EXACTKEYWORD , "Interplanetary Spacecraft" ) OR EXCLUDE ( EXACTKEYWORD , "Space Flight" ) OR EXCLUDE ( EXACTKEYWORD , "Remote Control" ) )
+
+

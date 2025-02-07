@@ -1,0 +1,6 @@
+Search Date: 05.11.2023
+
+
+("Document Title":*exploration* OR "Document Title":active*mapping OR "Document Title":active*slam OR "Document Title":"map learning" OR "Document Title":"informative path planning") AND ("All Metadata":robot*)
+
+
