@@ -2,9 +2,10 @@
 
 **Davide Brugali, Luca Muratore, and Alessio De Luca**
 
+This is the **replication package** for the systematic mapping study published in the International Journal of Robotic Research
+
 **Abstract** A variety of autonomous exploration tasks have been successfully performed in several types of environments using different types of robotic platforms. The robotic task, the operational environment, and the robot embodiment represent the dimensions of the ”problem space” in robot exploration. At the same time, a lot of exploration strategies are documented in the literature that provide partial solutions to the exploration problem. They define the ”solution space” in robot exploration. To our knowledge, no previous work has provided a methodical overview of robot exploration strategies from the point of view of both the problem and solution spaces. In this systematic mapping study we build a taxonomy of autonomous robot exploration strategies and application requirements and classify existing approaches according to it. The goal is to analyze research trends over time, and identify possible research gaps, open challenges, and promising future directions in order to support researchers and practitioners in generalizing, communicating, and applying the findings of the robot exploration knowledge field.
 
-This is the **replication package** for the systematic mapping study published in the International Journal of Robotic Research
 
 Materials Included
 -----------------------------
