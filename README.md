@@ -42,7 +42,7 @@ Please cite our work as
 	volume = {xx},
 	pages = {xx-xx},
 	year = {2025},
-	doi = {[https://journals.sagepub.com/doi/10.1177/02783649241313471]}	
+	doi = {[(https://journals.sagepub.com/doi/10.1177/02783649241313471)]}	
 }
 ```
 
